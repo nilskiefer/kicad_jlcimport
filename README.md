@@ -2,6 +2,10 @@
 
 A KiCad 9 Action Plugin that imports symbols, footprints, and 3D models directly from LCSC/JLCPCB into your KiCad project or global library.
 
+![Search and details](images/search_results.png)
+
+![Gallery view](images/gallery.png)
+
 ## Features
 
 - Search the JLCPCB parts catalog with filtering (Basic/Extended, in-stock)
